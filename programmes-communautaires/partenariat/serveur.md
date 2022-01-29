@@ -51,7 +51,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  
  #### Une bannière d'invitation de serveur personnalisée 
  
-La bannière personnalisée se trouve à l'arriere plan d'une invitation, elle s'obtient également au le niveau 1 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
+La bannière personnalisée se trouve à l'arrière plan d'une invitation, elle s'obtient également au niveau 1 de [boosts de serveur](https://discord.fr/nitro-jeux/boost-serveur/boost.md).
 
 ![Bannière d'invitation de serveur](https://i.discord.fr/Y06.png)
 
